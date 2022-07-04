@@ -6,7 +6,7 @@
  * Description:       Incluye UPC EAN MPN En el inventario de Woocommerce, configuracion desde el inventario para mostrar u ocultar el campo deseado.
  * Version:           1.10.3
  * Requires at least: 5.2
- * Requires PHP:      7.8
+ * Requires PHP:      7.3
  * Author:            Jose Pinto
  * Author URI:        http://www.webmasteryagency.com
  * License:           GPL v3 or later
